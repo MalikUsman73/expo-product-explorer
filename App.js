@@ -1,6 +1,5 @@
 import { StatusBar } from 'expo-status-bar';
 import { FlatList, SafeAreaView, StyleSheet, Text, View } from 'react-native';
-import { Nope } from 'this-package-does-not-exist';
 
 const PRODUCTS = [
   { id: '1', name: 'Wireless Mouse', price: '$19.99' },
